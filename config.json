@@ -1,0 +1,50 @@
+{
+  "empf": {
+    "itemName": [
+      "Reinforced Leather",
+      "Reinforced Hide"
+    ],
+    "overrideTask": true,
+    "battleMode": "C",
+    "combatId": "0",
+    "join_boss_prepare_min": 15
+  },
+  "ett": {
+    "itemName": [
+      "Cedar Logs"
+    ],
+    "overrideTask": true,
+    "battleMode": "C",
+    "combatId": "0",
+    "join_boss_prepare_min": 15
+  },
+  "pccws": {
+    "itemName": [
+      "Platinum Bar",
+      "Platinum Ore"
+    ],
+    "overrideTask": true,
+    "battleMode": "C",
+    "combatId": "0",
+    "join_boss_prepare_min": 15
+  },
+  "mpfa": {
+    "itemName": [
+      "Tough Leather",
+      "Tough Hide"
+    ],
+    "overrideTask": true,
+    "battleMode": "C",
+    "combatId": "0",
+    "join_boss_prepare_min": 15
+  },
+  "suppempf": {
+    "itemName": [
+      "Coal Ore"
+    ],
+    "overrideTask": true,
+    "battleMode": "C",
+    "combatId": "1",
+    "join_boss_prepare_min": 15
+  }
+}
