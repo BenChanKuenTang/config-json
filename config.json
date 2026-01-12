@@ -11,7 +11,8 @@
   },
   "ett": {
     "itemName": [
-      "Gold Ore"
+      "Dreamvine Sap",
+      "Dreamvine"
     ],
     "overrideTask": true,
     "battleMode": "C",
