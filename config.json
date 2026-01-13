@@ -1,4 +1,8 @@
 {
+  "setting": {
+    "memebr_action_threshold": 7,
+    "non_memebr_action_threshold": 5
+  },
   "empf": {
     "skill_mode": "AUTO",
     "skill_name": "Leatherworking",
