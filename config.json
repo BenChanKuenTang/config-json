@@ -27,7 +27,8 @@
     "skill_mode": "AUTO",
     "skill_name": "Alchemy",
     "itemName": [
-      "Cedar Logs"
+      "Dreamvine Sap",
+      "Dreamvine"
     ],
     "overrideTask": true,
     "battleMode": "C",
