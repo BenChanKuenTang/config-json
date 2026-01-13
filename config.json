@@ -1,25 +1,46 @@
 {
   "empf": {
+    "skill_mode": "AUTO",
+    "skill_name": "Leatherworking",
     "itemName": [
-      "Shadowhide Leather",
-      "Shadow Hide"
+      "Reinforced Leather",
+      "Reinforced Hide"
     ],
     "overrideTask": true,
     "battleMode": "C",
     "combatId": "0",
-    "join_boss_prepare_min": 15
+    "world_boss": [
+      ""
+    ],
+    "join_word_boss_prepare_min": 15,
+    "join_boss_prepare_min": 15,
+    "combat_duration": 18000,
+    "task_duration": 18000,
+    "feed_pet": true,
+    "pet_max_level": 45
   },
   "ett": {
+    "skill_mode": "AUTO",
+    "skill_name": "Alchemy",
     "itemName": [
-      "Dreamvine Sap",
-      "Dreamvine"
+      "Cedar Logs"
     ],
     "overrideTask": true,
     "battleMode": "C",
     "combatId": "0",
-    "join_boss_prepare_min": 15
+    "world_boss": [
+      ""
+    ],
+    "join_word_boss_prepare_min": 15,
+    "join_boss_prepare_min": 15,
+    "combat_duration": 18000,
+    "task_duration": 18000,
+    "feed_pet": true,
+    "pet_max_level": 45
   },
   "pccws": {
+    "skill_mode": "AUTO",
+    "skill_name": "Forging",
     "itemName": [
       "Platinum Bar",
       "Platinum Ore"
@@ -27,9 +48,19 @@
     "overrideTask": true,
     "battleMode": "C",
     "combatId": "0",
-    "join_boss_prepare_min": 15
+    "world_boss": [
+      ""
+    ],
+    "join_word_boss_prepare_min": 15,
+    "join_boss_prepare_min": 15,
+    "combat_duration": 18000,
+    "task_duration": 18000,
+    "feed_pet": true,
+    "pet_max_level": 45
   },
   "mpfa": {
+    "skill_mode": "AUTO",
+    "skill_name": "Leatherworking",
     "itemName": [
       "Tough Leather",
       "Tough Hide"
@@ -37,15 +68,33 @@
     "overrideTask": true,
     "battleMode": "C",
     "combatId": "0",
-    "join_boss_prepare_min": 15
+    "world_boss": [
+      ""
+    ],
+    "join_word_boss_prepare_min": 15,
+    "join_boss_prepare_min": 15,
+    "combat_duration": 18000,
+    "task_duration": 18000,
+    "feed_pet": true,
+    "pet_max_level": 45
   },
   "suppempf": {
+    "skill_mode": "M",
+    "skill_name": "Tailoring",
     "itemName": [
       "Coal Ore"
     ],
     "overrideTask": true,
     "battleMode": "C",
     "combatId": "1",
-    "join_boss_prepare_min": 15
+    "world_boss": [
+      ""
+    ],
+    "join_word_boss_prepare_min": 15,
+    "join_boss_prepare_min": 15,
+    "combat_duration": 18000,
+    "task_duration": 18000,
+    "feed_pet": false,
+    "pet_max_level": 45
   }
 }
