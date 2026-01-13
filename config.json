@@ -7,8 +7,8 @@
     "skill_mode": "AUTO",
     "skill_name": "Leatherworking",
     "itemName": [
-      "Reinforced Leather",
-      "Reinforced Hide"
+      "Shadowhide Leather",
+      "Shadow Hide"
     ],
     "overrideTask": true,
     "battleMode": "C",
