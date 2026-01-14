@@ -65,10 +65,10 @@
   },
   "mpfa": {
     "skill_mode": "AUTO",
-    "skill_name": "Leatherworking",
+    "skill_name": "Woodcrafting",
     "itemName": [
-      "Tough Leather",
-      "Tough Hide"
+      "Birch Plank",
+      "Birch Logs"
     ],
     "overrideTask": true,
     "battleMode": "C",
