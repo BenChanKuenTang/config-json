@@ -67,8 +67,8 @@
     "skill_mode": "AUTO",
     "skill_name": "Woodcrafting",
     "itemName": [
-      "Birch Plank",
-      "Birch Logs"
+      "Pine Plank",
+      "Pine Logs"
     ],
     "overrideTask": true,
     "battleMode": "C",
