@@ -45,10 +45,10 @@
   },
   "pccws": {
     "skill_mode": "AUTO",
-    "skill_name": "Forging",
+    "skill_name": "Fishing",
     "itemName": [
-      "Platinum Bar",
-      "Platinum Ore"
+      "Shark Stew",
+      "Shark"
     ],
     "overrideTask": true,
     "battleMode": "C",
