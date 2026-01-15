@@ -87,11 +87,11 @@
     "skill_mode": "M",
     "skill_name": "Tailoring",
     "itemName": [
-      "Coal Ore"
+      "Arcane Crystal"
     ],
     "overrideTask": true,
     "battleMode": "C",
-    "combatId": "1",
+    "combatId": "8",
     "world_boss": [
       ""
     ],
