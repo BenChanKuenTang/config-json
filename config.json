@@ -67,8 +67,8 @@
     "skill_mode": "AUTO",
     "skill_name": "Woodcrafting",
     "itemName": [
-      "Pine Plank",
-      "Pine Logs"
+      "Cedar Plank",
+      "Cedar Logs"
     ],
     "overrideTask": true,
     "battleMode": "C",
