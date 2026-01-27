@@ -45,9 +45,10 @@
   },
   "pccws": {
     "skill_mode": "AUTO",
-    "skill_name": "Fishing",
+    "skill_name": "Forging",
     "itemName": [
-      "Shark Stew"
+      "Mithril Bar",
+      "Mithril Ore"
     ],
     "overrideTask": true,
     "battleMode": "C",
