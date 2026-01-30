@@ -11,6 +11,7 @@
     ],
     "overrideTask": true,
     "battleMode": "C",
+    "combatId": "41",
     "world_boss": [
       ""
     ],
