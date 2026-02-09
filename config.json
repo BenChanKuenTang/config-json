@@ -4,7 +4,7 @@
     "non_memebr_action_threshold": 5
   },
   "empf": {
-    "skill_mode": "AUTO",
+    "skill_mode": "M",
     "skill_name": "Leatherworking",
     "itemName": [
       "Bone Charcoal"
@@ -25,10 +25,7 @@
   "ett": {
     "skill_mode": "AUTO",
     "skill_name": "Tailoring",
-    "itemName": [
-      "Shadow Cloth",
-      "Shadowvine"
-    ],
+    "itemName": [],
     "overrideTask": true,
     "battleMode": "C",
     "combatId": "0",
@@ -45,10 +42,7 @@
   "pccws": {
     "skill_mode": "AUTO",
     "skill_name": "Forging",
-    "itemName": [
-      "Mithril Bar",
-      "Mithril Ore"
-    ],
+    "itemName": [],
     "overrideTask": true,
     "battleMode": "C",
     "combatId": "0",
