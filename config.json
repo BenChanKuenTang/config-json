@@ -25,6 +25,7 @@
   "ett": {
     "skill_mode": "AUTO",
     "skill_name": "Tailoring",
+    "item_loop_child": true,
     "itemName": [],
     "overrideTask": true,
     "battleMode": "C",
@@ -42,6 +43,7 @@
   "pccws": {
     "skill_mode": "AUTO",
     "skill_name": "Fishing",
+    "item_loop_child": true,
     "itemName": [],
     "overrideTask": true,
     "battleMode": "C",
