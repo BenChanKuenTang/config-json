@@ -42,7 +42,7 @@
   },
   "pccws": {
     "skill_mode": "AUTO",
-    "skill_name": "Fishing",
+    "skill_name": "Cooking",
     "item_loop_child": true,
     "itemName": [],
     "overrideTask": true,
