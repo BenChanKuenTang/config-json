@@ -69,8 +69,8 @@
     "skill_name": "Woodcrafting",
     "item_loop_child": false,
     "itemName": [
-      "Ebony Plank",
-      "Ebony Logs"
+      "Ironwood Plank",
+      "Ironwood Logs"
     ],
     "overrideTask": true,
     "battleMode": "C",
