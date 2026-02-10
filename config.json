@@ -27,7 +27,10 @@
     "skill_mode": "AUTO",
     "skill_name": "Tailoring",
     "item_loop_child": false,
-    "itemName": [],
+    "itemName": [
+      "Shadow Cloth",
+      "Shadowvine"
+    ],
     "overrideTask": true,
     "battleMode": "C",
     "combatId": "0",
@@ -45,7 +48,10 @@
     "skill_mode": "AUTO",
     "skill_name": "Cooking",
     "item_loop_child": false,
-    "itemName": [],
+    "itemName": [
+      "Angler Soup",
+      "Angler"
+    ],
     "overrideTask": true,
     "battleMode": "C",
     "combatId": "0",
