@@ -6,6 +6,7 @@
   "empf": {
     "skill_mode": "M",
     "skill_name": "Leatherworking",
+    "item_loop_child": false,
     "itemName": [
       "Bone Charcoal"
     ],
@@ -25,7 +26,7 @@
   "ett": {
     "skill_mode": "AUTO",
     "skill_name": "Tailoring",
-    "item_loop_child": true,
+    "item_loop_child": false,
     "itemName": [],
     "overrideTask": true,
     "battleMode": "C",
@@ -43,7 +44,7 @@
   "pccws": {
     "skill_mode": "AUTO",
     "skill_name": "Cooking",
-    "item_loop_child": true,
+    "item_loop_child": false,
     "itemName": [],
     "overrideTask": true,
     "battleMode": "C",
@@ -61,6 +62,7 @@
   "mpfa": {
     "skill_mode": "AUTO",
     "skill_name": "Woodcrafting",
+    "item_loop_child": false,
     "itemName": [
       "Ebony Plank",
       "Ebony Logs"
@@ -81,6 +83,7 @@
   "suppempf": {
     "skill_mode": "M",
     "skill_name": "Tailoring",
+    "item_loop_child": false,
     "itemName": [
       "Coal Ore"
     ],
