@@ -28,8 +28,7 @@
     "skill_name": "Tailoring",
     "item_loop_child": false,
     "itemName": [
-      "Shadow Cloth",
-      "Shadowvine"
+      "Platinum Ore"
     ],
     "overrideTask": true,
     "battleMode": "C",
