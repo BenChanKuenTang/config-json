@@ -8,7 +8,8 @@
     "skill_name": "Leatherworking",
     "item_loop_child": false,
     "itemName": [
-      "Bone Charcoal"
+      "Shadowhide Leather",
+      "Shadow Hide"
     ],
     "overrideTask": true,
     "battleMode": "C",
