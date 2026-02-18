@@ -29,7 +29,8 @@
     "skill_name": "Tailoring",
     "item_loop_child": false,
     "itemName": [
-      "Ebony Logs"
+      "Mystweave Cloth",
+      "Mystroot"
     ],
     "overrideTask": true,
     "battleMode": "C",
