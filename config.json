@@ -20,7 +20,7 @@
     "join_word_boss_prepare_min": 15,
     "join_boss_prepare_min": 15,
     "combat_duration": 0,
-    "task_duration": 18000,
+    "task_duration": 0,
     "feed_pet": true,
     "pet_max_level": 45
   },
@@ -41,7 +41,7 @@
     "join_word_boss_prepare_min": 15,
     "join_boss_prepare_min": 15,
     "combat_duration": 0,
-    "task_duration": 18000,
+    "task_duration": 0,
     "feed_pet": true,
     "pet_max_level": 45
   },
@@ -62,7 +62,7 @@
     "join_word_boss_prepare_min": 15,
     "join_boss_prepare_min": 15,
     "combat_duration": 0,
-    "task_duration": 18000,
+    "task_duration": 0,
     "feed_pet": true,
     "pet_max_level": 45
   },
@@ -83,7 +83,7 @@
     "join_word_boss_prepare_min": 15,
     "join_boss_prepare_min": 15,
     "combat_duration": 0,
-    "task_duration": 18000,
+    "task_duration": 0,
     "feed_pet": true,
     "pet_max_level": 45
   },
@@ -103,7 +103,7 @@
     "join_word_boss_prepare_min": 15,
     "join_boss_prepare_min": 15,
     "combat_duration": 0,
-    "task_duration": 18000,
+    "task_duration": 0,
     "feed_pet": false,
     "pet_max_level": 45
   }
