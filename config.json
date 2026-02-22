@@ -53,7 +53,7 @@
       "Adamantite Bar",
       "Adamantite Ore"
     ],
-    "overrideTask": true,
+    "overrideTask": false,
     "battleMode": "C",
     "combatId": "0",
     "world_boss": [
@@ -62,7 +62,7 @@
     "join_word_boss_prepare_min": 15,
     "join_boss_prepare_min": 15,
     "combat_duration": 0,
-    "task_duration": 0,
+    "task_duration": 18000,
     "feed_pet": true,
     "pet_max_level": 45
   },
