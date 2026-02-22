@@ -47,11 +47,11 @@
   },
   "pccws": {
     "skill_mode": "AUTO",
-    "skill_name": "Cooking",
+    "skill_name": "Forging",
     "item_loop_child": false,
     "itemName": [
-      "Angler Soup",
-      "Angler"
+      "Adamantite Bar",
+      "Adamantite Ore"
     ],
     "overrideTask": true,
     "battleMode": "C",
