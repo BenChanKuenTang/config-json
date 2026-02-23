@@ -67,12 +67,12 @@
     "pet_max_level": 45
   },
   "mpfa": {
-    "skill_mode": "AUTO",
+    "skill_mode": "M",
     "skill_name": "Woodcrafting",
     "item_loop_child": false,
     "itemName": [
-      "Ironwood Plank",
-      "Ironwood Logs"
+      "Reinforced Hide",
+      "Bone Charcoal"
     ],
     "overrideTask": true,
     "battleMode": "C",
