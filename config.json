@@ -63,7 +63,7 @@
     "join_boss_prepare_min": 15,
     "combat_duration": 0,
     "task_duration": 0,
-    "feed_pet": true,
+    "feed_pet": false,
     "pet_max_level": 45
   },
   "mpfa": {
