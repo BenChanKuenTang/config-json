@@ -71,7 +71,6 @@
     "skill_name": "Woodcrafting",
     "item_loop_child": false,
     "itemName": [
-      "Reinforced Hide",
       "Bone Charcoal"
     ],
     "overrideTask": true,
