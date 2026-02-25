@@ -34,7 +34,7 @@
     ],
     "overrideTask": true,
     "battleMode": "C",
-    "combatId": "39",
+    "combatId": "36",
     "world_boss": [
       ""
     ],
@@ -91,7 +91,7 @@
     "skill_name": "Tailoring",
     "item_loop_child": false,
     "itemName": [
-      "Arcane Crystal"
+      "Coal Ore"
     ],
     "overrideTask": true,
     "battleMode": "C",
