@@ -4,7 +4,7 @@
     "non_memebr_action_threshold": 5
   },
   "empf": {
-    "skill_mode": "M",
+    "skill_mode": "AUTO",
     "skill_name": "Leatherworking",
     "item_loop_child": false,
     "itemName": [
@@ -22,7 +22,9 @@
     "combat_duration": 0,
     "task_duration": 0,
     "feed_pet": true,
-    "pet_max_level": 45
+    "pet_max_level": 45,
+    "donate_resource":" bone_charcoal",
+	  "donate_amount": 50
   },
   "ett": {
     "skill_mode": "AUTO",
@@ -34,7 +36,7 @@
     ],
     "overrideTask": true,
     "battleMode": "C",
-    "combatId": "36",
+    "combatId": "0",
     "world_boss": [
       ""
     ],
@@ -55,7 +57,7 @@
     ],
     "overrideTask": true,
     "battleMode": "C",
-    "combatId": "36",
+    "combatId": "0",
     "world_boss": [
       ""
     ],
