@@ -4,12 +4,11 @@
     "non_memebr_action_threshold": 5
   },
   "empf": {
-    "skill_mode": "AUTO",
+    "skill_mode": "M",
     "skill_name": "Leatherworking",
     "item_loop_child": false,
     "itemName": [
-      "Dragonhide Leather",
-      "Dragon Hide"
+      "Arcanleaf",
     ],
     "overrideTask": true,
     "battleMode": "C",
