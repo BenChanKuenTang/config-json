@@ -23,7 +23,7 @@
     "feed_pet": true,
     "pet_max_level": 45,
     "donate_resource":" bone_charcoal",
-	  "donate_amount": 50
+	"donate_amount": 50
   },
   "ett": {
     "skill_mode": "AUTO",
