@@ -22,7 +22,7 @@
     "task_duration": 0,
     "feed_pet": true,
     "pet_max_level": 45,
-    "donate_resource":" bone_charcoal",
+    "donate_resource":"bone_charcoal",
 	"donate_amount": 50
   },
   "ett": {
