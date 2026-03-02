@@ -26,12 +26,12 @@
 	"donate_amount": 50
   },
   "ett": {
-    "skill_mode": "AUTO",
+    "skill_mode": "M",
     "skill_name": "Alchemy",
     "item_loop_child": false,
     "itemName": [
-      "Mystweave Cloth",
-      "Mystroot"
+      "Spiritthorn Powder",
+      "Spiritthorn"
     ],
     "overrideTask": true,
     "battleMode": "C",
@@ -47,7 +47,7 @@
     "pet_max_level": 45
   },
   "pccws": {
-    "skill_mode": "AUTO",
+    "skill_mode": "M",
     "skill_name": "Forging",
     "item_loop_child": false,
     "itemName": [
