@@ -55,8 +55,8 @@
     "skill_name": "Forging",
     "item_loop_child": false,
     "itemName": [
-      "Adamantite Bar",
-      "Adamantite Ore"
+      "Spiced Sea Wyrm",
+      "Sea Wyrm"
     ],
     "overrideTask": true,
     "battleMode": "C",
