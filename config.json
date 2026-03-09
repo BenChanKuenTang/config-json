@@ -76,7 +76,8 @@
     "skill_name": "Woodcrafting",
     "item_loop_child": false,
     "itemName": [
-      "Bone Charcoal"
+      "Dragonwood Plank".
+	  "Dragonwood Logs"
     ],
     "overrideTask": true,
     "battleMode": "C",
