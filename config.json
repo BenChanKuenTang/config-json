@@ -24,7 +24,7 @@
 	"join_boss_buff_min": 30,
     "combat_duration": 0,
     "task_duration": 0,
-    "feed_pet": true,
+    "feed_pet": false,
     "pet_max_level": 45,
     "donate_resource":"bone_charcoal",
 	"donate_amount": 50
