@@ -34,12 +34,12 @@
     "skill_name": "Alchemy",
     "item_loop_child": false,
     "itemName": [
-      "Spiritthorn Powder",
-      "Spiritthorn"
+      "Arcane Cloth",
+      "Arcanleaf"
     ],
     "overrideTask": true,
     "battleMode": "C",
-    "combatId": "41",
+    "combatId": "37",
     "world_boss": [
       ""
     ],
