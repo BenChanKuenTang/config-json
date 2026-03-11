@@ -8,8 +8,6 @@
     "skill_name": "Leatherworking",
     "item_loop_child": false,
     "itemName": [
-	  "Shadowhide Leather",
-	  "Shadow Hide",
       "Dragonhide Leather",
 	  "Dragon Hide"
     ],
