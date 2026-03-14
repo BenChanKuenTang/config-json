@@ -74,7 +74,6 @@
     "skill_name": "Woodcrafting",
     "item_loop_child": false,
     "itemName": [
-	  "Sturdy Hide",
       "Dragonwood Plank",
 	  "Dragonwood Logs"
     ],
