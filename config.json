@@ -52,8 +52,7 @@
     "skill_name": "Forging",
     "item_loop_child": false,
     "itemName": [
-      "Spiced Sea Wyrm",
-      "Sea Wyrm"
+      
     ],
     "overrideTask": true,
     "battleMode": "C",
