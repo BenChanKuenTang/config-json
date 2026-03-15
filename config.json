@@ -8,9 +8,8 @@
     "skill_name": "Leatherworking",
     "item_loop_child": false,
     "itemName": [
-	  "Minnow",
-      "Dragonhide Leather",
-	  "Dragon Hide"
+	  "Grilled Minnow",
+	  "Minnow"
     ],
     "overrideTask": true,
     "battleMode": "C",
