@@ -53,7 +53,8 @@
     "skill_name": "Forging",
     "item_loop_child": false,
     "itemName": [
-      "Spiced Sea Wyrm"
+	  "Eternium Bar",
+      "Eternium Ore"
     ],
     "overrideTask": true,
     "battleMode": "C",
