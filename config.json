@@ -74,8 +74,8 @@
     "skill_name": "Woodcrafting",
     "item_loop_child": false,
     "itemName": [
-      "Dragonwood Plank",
-	  "Dragonwood Logs"
+      "Celestial Plank",
+	  "Celestial Logs"
     ],
     "overrideTask": true,
     "battleMode": "C",
