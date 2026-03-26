@@ -33,7 +33,8 @@
     "item_loop_child": false,
     "itemName": [
       "Arcane Cloth",
-      "Arcanleaf"
+	  "Shadowbloom Essence",
+      "Shadowbloom"
     ],
     "overrideTask": true,
     "battleMode": "C",
