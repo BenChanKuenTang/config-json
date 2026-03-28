@@ -32,7 +32,6 @@
     "skill_name": "Alchemy",
     "item_loop_child": false,
     "itemName": [
-      "Arcane Cloth",
 	  "Shadowbloom Essence",
       "Shadowbloom"
     ],
