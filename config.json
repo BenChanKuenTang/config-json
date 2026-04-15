@@ -15,7 +15,7 @@
     "battleMode": "C",
     "combatId": "42",
     "world_boss": [
-      "Verdrath"
+      ""
     ],
     "join_word_boss_prepare_min": 15,
     "join_boss_prepare_min": 10,
@@ -32,14 +32,14 @@
     "skill_name": "Alchemy",
     "item_loop_child": false,
     "itemName": [
-	  "Shadowbloom Essence",
-      "Shadowbloom"
+	  "Arcane Crystal",
+	  "Shadowbloom Essence"
     ],
     "overrideTask": true,
     "battleMode": "C",
     "combatId": "42",
     "world_boss": [
-      "Verdrath"
+      ""
     ],
     "join_word_boss_prepare_min": 15,
     "join_boss_prepare_min": 10,
@@ -53,14 +53,15 @@
     "skill_name": "Forging",
     "item_loop_child": false,
     "itemName": [
+	  "Coal Ore",
 	  "Eternium Bar",
       "Eternium Ore"
     ],
     "overrideTask": true,
     "battleMode": "C",
-    "combatId": "41",
+    "combatId": "42",
     "world_boss": [
-      "Verdrath"
+      ""
     ],
     "join_word_boss_prepare_min": 15,
     "join_boss_prepare_min": 10,
@@ -74,14 +75,15 @@
     "skill_name": "Woodcrafting",
     "item_loop_child": false,
     "itemName": [
+	  "Bone Charcoal",
       "Celestial Plank",
 	  "Celestial Logs"
     ],
     "overrideTask": true,
     "battleMode": "C",
-    "combatId": "42",
+    "combatId": "31",
     "world_boss": [
-      "Verdrath"
+      ""
     ],
     "join_word_boss_prepare_min": 15,
     "join_boss_prepare_min": 10,
@@ -95,13 +97,13 @@
     "skill_name": "Tailoring",
     "item_loop_child": false,
     "itemName": [
-      "Arcane Crystal"
+      "Bone Charcoal"
     ],
     "overrideTask": true,
     "battleMode": "C",
-    "combatId": "35",
+    "combatId": "39",
     "world_boss": [
-      "Verdrath"
+      ""
     ],
     "join_word_boss_prepare_min": 15,
     "join_boss_prepare_min": 10,
