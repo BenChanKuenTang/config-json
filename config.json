@@ -32,8 +32,8 @@
     "skill_name": "Alchemy",
     "item_loop_child": false,
     "itemName": [
-	  "Arcane Crystal",
-	  "Shadowbloom Essence"
+	  "Shadowbloom Essence",
+	  "Arcane Crystal"
     ],
     "overrideTask": true,
     "battleMode": "C",
@@ -53,8 +53,8 @@
     "skill_name": "Forging",
     "item_loop_child": false,
     "itemName": [
-	  "Coal Ore",
 	  "Eternium Bar",
+	  "Coal Ore",
       "Eternium Ore"
     ],
     "overrideTask": true,
@@ -75,8 +75,8 @@
     "skill_name": "Woodcrafting",
     "item_loop_child": false,
     "itemName": [
-	  "Bone Charcoal",
       "Celestial Plank",
+	  "Bone Charcoal",
 	  "Celestial Logs"
     ],
     "overrideTask": true,
