@@ -32,7 +32,8 @@
     "skill_name": "Alchemy",
     "item_loop_child": false,
     "itemName": [
-	  "Arcane Crystal"
+	  "Aether Cloth",
+	  "Aetherbloom"
     ],
     "overrideTask": true,
     "battleMode": "C",
